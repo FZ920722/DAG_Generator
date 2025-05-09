@@ -1,12 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# # # # # # # # # # # # # # # #
-# Real-Time Systems Group
-# Hunan University HNU
-# Fang YJ
-# # # # # # # # # # # # # # # #
-
 from MainHead import *
 
 def Node_Enu(subdag, nnum):
